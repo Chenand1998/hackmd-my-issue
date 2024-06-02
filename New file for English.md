@@ -1,7 +1,5 @@
 Example for "Pull from GitHub"
-01
-02
-03
+One two three
 
 ## Authorize HackMD on GitHub
 On your first time linking HackMD with GitHub, you will be asked to authorize HackMD GitHub App to access your GitHub account AND the repos you want HackMD to link to. There are two levels of authorization needed: the account and the repositories.
