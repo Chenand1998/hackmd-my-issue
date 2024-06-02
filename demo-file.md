@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/2qDynBYRRjaNH3L9ZUaSGQ/badge)](https://hackmd.io/2qDynBYRRjaNH3L9ZUaSGQ)
 Example for pulling new branch from GitHub
 
 ```html=
